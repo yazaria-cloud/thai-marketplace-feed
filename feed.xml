@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Thai Marketplace (test feed)</title>
+    <link>https://yazaria-cloud.github.io/thai-marketplace-feed</link>
+    <description>Personal test feed for the Thai Marketplace vocab-drill pipeline.</description>
+    <language>th</language>
+    <item>
+      <title>Episode 1: Family Relationships & Dynamics</title>
+      <description>A short narrated Thai piece drilling family relationship vocab (close, argue, trust, respect, support).</description>
+      <enclosure url="https://yazaria-cloud.github.io/thai-marketplace-feed/episode-01-relationships.m4a" length="3453812" type="audio/mp4"/>
+      <guid>https://yazaria-cloud.github.io/thai-marketplace-feed/episode-01-relationships.m4a</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:32 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

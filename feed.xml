@@ -10,7 +10,14 @@
       <description>A short narrated Thai piece drilling family relationship vocab (close, argue, trust, respect, support).</description>
       <enclosure url="https://yazaria-cloud.github.io/thai-marketplace-feed/episode-01-relationships.m4a" length="3453812" type="audio/mp4"/>
       <guid>https://yazaria-cloud.github.io/thai-marketplace-feed/episode-01-relationships.m4a</guid>
-      <pubDate>Fri, 11 Sep 2026 07:14:32 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:55:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 2: Family Relationships & Dynamics (Neural2-C voice)</title>
+      <description>Same script as Episode 1, re-rendered with Google Cloud TTS th-TH-Neural2-C instead of macOS say — voice-quality comparison.</description>
+      <enclosure url="https://yazaria-cloud.github.io/thai-marketplace-feed/episode-02-relationships-neural2c.mp3" length="363648" type="audio/mpeg"/>
+      <guid>https://yazaria-cloud.github.io/thai-marketplace-feed/episode-02-relationships-neural2c.mp3</guid>
+      <pubDate>Fri, 11 Sep 2026 07:55:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
